@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @McCarthyCharles233
-- 👀 Frontend Developer
-- 🌱 HTML, CSS, JavaScript, Bootstrap, ReactJS
-- 💞️ I’m looking to collaborate on web development projects and any other basic projects to have hands on experience in this field
+- 👀 SOftware Developer and Cloud Engineer
+- 🌱ReactJS, AWS Web Services
 - 📫 How to reach me charlesmccarthy233@gmail.com
 
 <!---
