@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McCarthyCharles233
 - 👀 Software Developer and Cloud Engineer
-- 🌱ReactJS, AWS Web Services
+- 🌱AWS Web Services
 - 📫 How to reach me charlesmccarthy233@gmail.com
 
 <!---
